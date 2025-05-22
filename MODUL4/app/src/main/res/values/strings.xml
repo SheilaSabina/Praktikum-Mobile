@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MODUL 4</string>
+    <string-array name="gunung_name">
+        <item>Gunung Bromo</item>
+        <item>Gunung Kerinci</item>
+        <item>Gunung Merapi</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Rinjani</item>
+    </string-array>
+
+    <string-array name="gunung_link">
+        <item>https://bromotenggersemeru.org/</item>
+        <item>https://tnkerinciseblat.com/</item>
+        <item>https://tngmerapi.id/</item>
+        <item>https://tngunungmerbabu.org/</item>
+        <item>https://www.rinjaninationalpark.id/</item>
+    </string-array>
+
+    <string-array name="gunung_lokasi">
+        <item>Jawa Timur</item>
+        <item>Jambi, di Taman Nasional Kerinci Seblat</item>
+        <item>Perbatasan Yogyakarta dan Jawa Tengah</item>
+        <item>Jawa Tengah</item>
+        <item>Lombok, Nusa Tenggara Barat</item>
+    </string-array>
+
+    <string-array name="gunung_deskripsi">
+        <item>Gunung Bromo adalah gunung api aktif yang terkenal secara internasional karena lanskapnya yang ikonik dan mudah diakses dengan ketinggian 2.329 mdpl. Gunung ini merupakan bagian dari kaldera Tengger yang sangat luas, dengan lautan pasir (Segara Wedi) selebar sekitar 10 km yang mengelilinginya. Kawah Bromo masih mengeluarkan asap putih dan terkadang belerang, menjadikannya gunung yang terus dipantau meskipun menjadi destinasi wisata utama. Bromo memiliki peran penting dalam budaya masyarakat Suku Tengger, keturunan dari kerajaan Majapahit, yang memegang teguh tradisi Hindu. Salah satu upacara besar mereka adalah Yadnya Kasada, di mana mereka melemparkan hasil panen, ternak, dan sesajen lainnya ke kawah Bromo sebagai persembahan kepada para dewa. Upacara ini menarik banyak wisatawan setiap tahun. Akses menuju Bromo cukup mudah, terutama dari Cemoro Lawang (Probolinggo) dan Wonokitri (Pasuruan). Wisatawan biasanya menantikan momen matahari terbit dari Penanjakan, sebuah titik pandang di sisi timur kaldera yang menawarkan panorama menakjubkan, dengan Gunung Bromo, Batok, dan Semeru berjejer dalam satu garis cakrawala.</item>
+        <item>Gunung Kerinci adalah puncak tertinggi di Pulau Sumatera sekaligus gunung berapi tertinggi di Indonesia dengan total ketinggian 3.805 mdpl. Gunung ini berdiri megah di tengah kawasan konservasi Taman Nasional Kerinci Seblat (TNKS), yang juga merupakan situs Warisan Dunia UNESCO dalam kategori Tropical Rainforest Heritage of Sumatra. Kawasan sekitar Kerinci adalah salah satu titik keanekaragaman hayati terkaya di dunia, menjadi rumah bagi harimau Sumatera, tapir, beruang madu, dan banyak jenis burung endemik. Kerinci masih aktif dan kerap menunjukkan aktivitas vulkanik berupa letusan kecil, gempa vulkanik, dan hembusan asap kawah. Meskipun begitu, gunung ini tetap menjadi daya tarik pendakian bagi pencinta alam ekstrem. Jalur utama pendakian melalui desa Kersik Tuo memiliki trek yang panjang dan menantang, melewati hutan hujan tropis lebat, rawa, dan jalur batu curam. Dari puncaknya, pendaki dapat melihat garis pantai Samudera Hindia dan Pegunungan Bukit Barisan yang menyapu cakrawala. Selain sebagai objek wisata, Kerinci juga penting untuk penelitian geologi dan pelestarian ekosistem pegunungan tropis.</item>
+        <item>Gunung Merapi merupakan gunung berapi paling aktif di Indonesia dan salah satu yang paling aktif di dunia dengan total ketinggian 2.930 mdpl. Merapi secara rutin mengalami letusan setiap 2–5 tahun sekali dan sangat memengaruhi wilayah padat penduduk di sekitarnya. Letusan besar terakhir yang menyebabkan korban jiwa terjadi pada tahun 2010, menewaskan puluhan orang dan memaksa ribuan lainnya mengungsi. Merapi bukan sekadar gunung, tetapi juga simbol budaya dan spiritualitas masyarakat Jawa. Gunung ini dipercaya sebagai pusat dunia spiritual dalam kosmologi Keraton Yogyakarta. Setiap tahun, masyarakat melakukan ritual Labuhan Merapi sebagai bentuk persembahan dan penghormatan terhadap kekuatan alam. Selain itu, kawasan lereng Merapi menjadi objek wisata edukasi, seperti Museum Gunungapi Merapi dan tur lava jeep yang memperlihatkan bekas jalur aliran awan panas (wedhus gembel). Secara geologis, Merapi terus dimonitor secara intensif oleh PVMBG dan BPPTKG dengan berbagai alat modern seperti seismograf, kamera thermal, dan satelit. Pendaki umumnya hanya diperbolehkan naik hingga Pasar Bubrah, karena puncaknya sangat berisiko terkena guguran lava dan awan panas..</item>
+        <item>Gunung Merbabu adalah gunung dengan ketinggian 3.145 meter di atas permukaan laut (mdpl) yang bertipe stratovolcano yang sudah tidak aktif, berdampingan erat dengan Gunung Merapi di sebelah selatannya. Nama "Merbabu" berasal dari gabungan kata “Meru” (gunung) dan “Abu”, yang secara harfiah berarti "gunung abu". Gunung ini memiliki keunikan berupa hamparan padang sabana luas yang sangat memikat, terutama saat musim kemarau ketika rerumputan menguning keemasan. Pendaki umumnya memilih jalur via Selo (Boyolali) atau Wekas (Magelang) karena pemandangan spektakuler dan trek yang relatif ramah. Gunung Merbabu sangat populer di kalangan pendaki, terutama karena spot sunrise dari puncaknya yang memperlihatkan lanskap gunung lain seperti Merapi, Sumbing, Sindoro, Lawu, dan bahkan Slamet. Flora dan fauna di kawasan ini cukup beragam, termasuk edelweiss, burung jalak, serta lutung Jawa. Meskipun secara vulkanik tidak aktif, Merbabu tetap diawasi karena posisinya yang dekat dengan Merapi yang sangat aktif. Selain pendakian, wilayah di kaki Merbabu juga dimanfaatkan untuk pertanian hortikultura oleh warga lokal.</item>
+        <item>Gunung Rinjani merupakan gunung berapi tertinggi kedua di Indonesia dan menjadi ikon Pulau Lombok dengan ketinggian 3.726 mdpl. Gunung ini termasuk dalam Taman Nasional Gunung Rinjani yang luasnya mencapai lebih dari 41.000 hektare. Di kawahnya terdapat Danau Segara Anak, yang menjadi pusat spiritual dan simbol kehidupan bagi masyarakat lokal. Di tengah danau tersebut, menjulang Gunung Barujari, yang merupakan kawah aktif dari Rinjani dan menjadi sumber letusan terakhir pada 2016. Pendakian Rinjani dikenal berat dan membutuhkan stamina serta persiapan fisik yang matang. Jalur-jalur populer antara lain via Sembalun (lebih terbuka dan panas) serta Senaru (lebih rimbun dan teduh). Rinjani menawarkan pemandangan yang menakjubkan: dari hutan tropis, air terjun, danau, hingga puncak berbatu yang curam. Selain nilai geologis, Rinjani juga memiliki arti spiritual dan budaya tinggi, seperti ritual Pekelan atau Mulang Pakelem yang dilakukan masyarakat Bali dan Sasak di Danau Segara Anak sebagai bentuk penghormatan kepada alam.
+
+</item>
+    </string-array>
+
+    <array name="gunung_image">
+        <item>@drawable/gunung_bromo</item>
+        <item>@drawable/gunung_kerinci</item>
+        <item>@drawable/gunung_merapi</item>
+        <item>@drawable/gunung_merbabu</item>
+        <item>@drawable/gunung_rinjani</item>
+    </array>
+</resources>
